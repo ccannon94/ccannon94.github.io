@@ -1,22 +1,36 @@
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Dude
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Chris Cannon
 email: chris.c.cannon@gmail.com
-description:  This is my personal blog, hosted using [GitHub Pages](https://pages.github.com).
+description: > # this means to ignore newlines until "baseurl:"
+  This is my personal blog, hosted using [GitHub Pages](https://pages.github.com).
   I am a Computer Engineering undergraduate at the North Carolina Agricultural and
   Technical State University in Greensboro, North Carolina! I wanted to blog here to
   discuss all things Computer Science, engineering, and all other things that strike
   my interest. Enjoy!
-baseurl: "/jekyll-wing-template" # the subpath of your site, e.g. /blog
-url: "https://ccannon94.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ccannon94
 github_username:  ccannon94
 
 # Build settings
 markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
