@@ -19,6 +19,7 @@ I participated in this hackathon with other students from my school's [chapter](
 anywhere from 1-3 people, and for those who do not have a team there was a brief "mixer" period before the problem presentation to find others and form a team.
 
 ![NC A&T Students at Discovery Place for HackathonCLT](https://c1.staticflickr.com/1/679/33671101705_12ddfbd205_z.jpg)
+
 Here's a few of us before the event, I'm on the left.
 
 ### The Problem
@@ -30,7 +31,7 @@ that BBBS had on hand to develop a better system of matching "bigs" with "little
 After the problem presentation concluded, it was time to release the coders! Everyone scrambled to find a space to work and get coding! Now, Discovery Place is a top-notch venue for nerds, but
 one thing that lacked was appropriate work spaces with access to power! As you can imagine, coding for 12 hours straight definitely required plentiful power supply. Luckily, my group managed to find a nice table in the "Explore More Collections" exhibition that usually help digital microscopes and monitors!
 
-[Work Space in the Explore More Collections exhibit at Discovery Place](https://c1.staticflickr.com/4/3706/32827767814_28bb74aa85_z.jpg)
+![Work Space in the Explore More Collections exhibit at Discovery Place](https://c1.staticflickr.com/4/3706/32827767814_28bb74aa85_z.jpg)
 
 Then became a several hour long process of figuring out what exactly we were equipped to do, and a failed attempt on my behalf to master TensorFlow in 2 hours, we decided to go with the _Code_ level. We worked hard until the wee hours of the morning. Pizza was available every few hours, and drinks were provided at no charge. There were a few events planned throughout the evening, but
 rather than partake my team stayed at our table (mostly) hard at work.
@@ -47,7 +48,7 @@ UNCC Charlotte's ACM Team was selected as this year's wildcard team from the _Ha
 North Carolina A&T was well represented in the finals, with my teams from the _Code_ category and another great idea from the _Freestyle_ team selected to present. And apparently our strategy
 paid off, as my team was selected as the winner of the _Code_ category. Here's my selfie with the big check!
 
-[Chris with the Big Check from HackathonCLT 2017](https://c1.staticflickr.com/3/2895/33630189456_74bc03d91e_z.jpg)
+![Chris with the Big Check from HackathonCLT 2017](https://c1.staticflickr.com/3/2895/33630189456_74bc03d91e_z.jpg)
 
 I know I know, but I had to, okay?
 
