@@ -33,7 +33,7 @@ one thing that lacked was appropriate work spaces with access to power! As you c
 
 ![Work Space in the Explore More Collections exhibit at Discovery Place](https://c1.staticflickr.com/4/3706/32827767814_28bb74aa85_z.jpg)
 
-Then became a several hour long process of figuring out what exactly we were equipped to do, and a failed attempt on my behalf to master TensorFlow in 2 hours, we decided to go with the _Code_ level. We worked hard until the wee hours of the morning. Pizza was available every few hours, and drinks were provided at no charge. There were a few events planned throughout the evening, but
+Then began a several hour long process of figuring out what exactly we were equipped to do, and a failed attempt on my behalf to master TensorFlow in 2 hours, we decided to go with the _Code_ level. We worked hard until the wee hours of the morning. Pizza was available every few hours, and drinks were provided at no charge. There were a few events planned throughout the evening, but
 rather than partake my team stayed at our table (mostly) hard at work.
 
 After breakfast, "pre-judging" began at around 7am and lasted until 9am. My group cut it just a bit close at 8:40, but hey, we needed to extra time. The pre-judging consisted of a 3 minute pitch to two judges, including technical and business experts. The experts gave quick pointers and feedback after the pre-judging, and we went back to work preparing our product and presentation for
