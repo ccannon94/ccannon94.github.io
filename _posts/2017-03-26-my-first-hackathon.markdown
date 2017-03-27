@@ -55,7 +55,7 @@ I know I know, but I had to, okay?
 ### Takeaway
 
 Hackathon's are exciting events! Hackathon's are also _exhausting_! But I feel like I learned more as a developer in the last 24 hours than I did since the end of my last internship, and I'm
-grateful for it! Honestly, winning helped a lot. But I think that should be a lesson that just because you're a student or new to hackathons doesn't mean you can't bring home to top prizes!
+grateful for it! Honestly, winning helped a lot, but I think that should be a lesson that just because you're a student or new to hackathons doesn't mean you can't bring home the top prizes!
 In the case of HackathonCLT, our solutions were presented to a great organization that can make real use of what we did. Some hackathons take on hypothetical problems or "thought exercises",
 and it was a very cool thing to work on a **real** problem for a real organization that really helps my community, and I definitely commend HackathonCLT for that. So, if you're a developer,
 designer, or a creative person in any way (the _freestyle_ category did not require any code), check out some sites like [Hackathon.io](http://www.hackathon.io) or [HackEvents](http://www.hackevents.co) and find a hackathon near you!
