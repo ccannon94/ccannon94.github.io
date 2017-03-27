@@ -29,7 +29,7 @@ that BBBS had on hand to develop a better system of matching "bigs" with "little
 
 ### RELEASE THE CODERS
 After the problem presentation concluded, it was time to release the coders! Everyone scrambled to find a space to work and get coding! Now, Discovery Place is a top-notch venue for nerds, but
-one thing that lacked was appropriate work spaces with access to power! As you can imagine, coding for 12 hours straight definitely required plentiful power supply. Luckily, my group managed to find a nice table in the "Explore More Collections" exhibition that usually help digital microscopes and monitors!
+one thing that lacked was appropriate work spaces with access to power! As you can imagine, coding for 12 hours straight definitely required plentiful power supply. Luckily, my group managed to find a nice table in the "Explore More Collections" exhibition that usually held digital microscopes and monitors!
 
 ![Work Space in the Explore More Collections exhibit at Discovery Place](https://c1.staticflickr.com/4/3706/32827767814_28bb74aa85_z.jpg)
 
