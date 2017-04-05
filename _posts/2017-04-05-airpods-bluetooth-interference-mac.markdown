@@ -14,3 +14,9 @@ I must give credit to Apple for their online support experience. Since I purchas
 
 Overall, I'm very pleased that Apple has made support _even more_ accessible to its customers over the past several years. I think it is one of the great defining characteristics of an "Apple experience," and is a large factor in why I recommend Apple products so often. It is a great thing when you are facing a complex problem with your devices to be able to quickly reach a professional who's only goal is improving _your_ experience with _your_ device, not upsell you to a new device or sell and expensive and unnecessary "repair."
 
+### The Problem
+All Bluetooth devices operate in the global Industrial, Scientific, and Medical (ISM) GHz radio frequency band [1](https://en.m.wikipedia.org/wiki/Bluetooth)
+
+
+### References
+'[1]' [Wikipedia Bluetooth Page](https://en.m.wikipedia.org/wiki/Bluetooth)
