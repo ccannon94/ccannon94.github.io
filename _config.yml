@@ -28,7 +28,7 @@ github_username:  ccannon94
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-tactile
 gems:
   - jekyll-feed
 exclude:
