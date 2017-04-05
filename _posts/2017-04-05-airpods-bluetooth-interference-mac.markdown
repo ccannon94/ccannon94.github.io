@@ -8,3 +8,9 @@ I recently received a pair of AirPods as a birthday present and I must say, they
 
 ### The Solution
 Basically, after 4 different case numbers, we determined that the most likely cause of my issue was an abundance of Bluetooth interference from my previous generation Magic Keyboard, Magic Trackpad, and Magic Mouse. The final Apple Support advisor I spoke with suggested that I power off my keyboard and trackpad, using only the mouse to pair the AirPods. Once I did, music came in consistently clear like it hadn't before.
+
+### The Troubleshooting Experience
+I must give credit to Apple for their online support experience. Since I purchased my first Mac in 2013, the experience has simplified and become far more accessible. Save for one particular advisor (who advised me to turn my Mac off and on again, after I provided him my two previous case numbers), everyone I interacted with was polite and professional and, most importantly to me, provided me with the next most logical step to work through my problem. Finally, I called in to Apple to speak with a senior advisor, all previous interactions had been over chat. Seeing that we had exhausted the standard troubleshooting checklist, he decided to "think outside the box".
+
+Overall, I'm very pleased that Apple has made support _even more_ accessible to its customers over the past several years. I think it is one of the great defining characteristics of an "Apple experience," and is a large factor in why I recommend Apple products so often. It is a great thing when you are facing a complex problem with your devices to be able to quickly reach a professional who's only goal is improving _your_ experience with _your_ device, not upsell you to a new device or sell and expensive and unnecessary "repair."
+
