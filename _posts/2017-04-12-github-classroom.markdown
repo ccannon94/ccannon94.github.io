@@ -20,4 +20,12 @@ I'm lucky to belong to a Computer Science department is eager to implement any c
 
 ## The Presentation
 
-Once I had approval, it was up to me to familiarize my class with git and GitHub before their first major programming assignment. 
+Once I had approval, it was up to me to familiarize my class with git and GitHub before the first major programming assignment. I decided to introduce the students to source control through our weekly lab, beginning with [this slideshow](https://github.com/ccannon94/ccannon94.github.io/blob/ccannon94-addpost-github-classroom/_bin/GEEN%20165%20Git%20Presentation.pdf). I kept things brief, explaining to students exactly how I saw GitHub benefiting them both in the workplace and in class. For each feature that was explained, I tried to give two examples, one from the workplace and one about how they would use it in class. For example, while explaining the branching model, I first explained how the `master` branch of a project can be though of as the released code, or some similar level of completeness, that was readily running on devices. I explained `development` branches and `feature` branches as reasons developers may really benefit from branches at work. _Then_, I tried to make branches applicable to them **now** by explaining that for their major programs, `master` would be treated as their graded code, basically anything that is already 100. In the meantime, they would have `level` branches where they work towards implementing different features based on the assignment requirements. For example, `level-1` may be creating all data types needed for the project, without any real business logic yet, and so on. After my 15 minute lecture, we began using GitHub Classroom for our first assignment.
+
+## The Projects
+
+We had 3 labs before major programs began, and students used GitHub Desktop with GitHub classroom every lab. TA's answered any questions they had and reminded them regularly how these concepts would translate to their major programs. Students were provided a link to create their major program repository and begin coding! Conversations took place through pull requests and issues where student's were able to ask questions and receive feedback with context, which is a powerful tool for communication.
+
+I will continue this series as I learn more about using GitHub Classroom and git as a teaching tool.
+
+Have a question about GitHub in the classroom? Any other constructive feedback? Find me on Twitter [@ccannon94](twitter.com/ccannon94)!
