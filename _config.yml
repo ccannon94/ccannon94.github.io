@@ -18,9 +18,10 @@ email: chris.c.cannon@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal blog, hosted using GitHub Pages.
   I am a Computer Engineering undergraduate at the North Carolina Agricultural and
-  Technical State University in Greensboro, North Carolina! I wanted to blog here to
-  discuss all things Computer Science, engineering, and all other things that strike
-  my interest. Enjoy!
+  Technical State University in Greensboro, North Carolina! I am a Christian and
+  training to serve in youth ministry after graduation in addition to my engineering
+  career. This blog is all about my experiences in engineering, computer science,
+  and Christianity! Enjoy!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ccannon94
