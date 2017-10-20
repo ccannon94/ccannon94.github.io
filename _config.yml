@@ -6,10 +6,10 @@ url: c-3.tech
 title: Christopher Cannon - Software Engineer
 email: chris.c.cannon@gmail.com
 author: Chris Cannon
-description: > # "Write an awesome description for your new site here.
-  You can edit this line in _config.yml. It will appear in your document
-  head meta (for Google search results) and in your feed.xml site
-  description.
+description: > #
+  The personal website of Christopher Cannon, software engineer
+  and student of Computer Engineering at North Carolina A&T State
+  University.
 copyright: 'Copyright &copy; 2017 Chris Cannon All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
